@@ -1,0 +1,21 @@
+{
+  "name": "empreeduca-nodejs",
+  "version": "1.0.0",
+  "description": "Este é um projeto Node.js desenvolvido para o Jornaduca com a Hcode Treinamentos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "javascript",
+    "js",
+    "hcode"
+  ],
+  "author": "Hcode Treinamentos",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
